@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.png" alt="Mahmoud Shaker — Senior Flutter Engineer" width="100%"></p>
+<p align="center"><img src="assets/header-v2.png" alt="Mahmoud Shaker — Senior Flutter Engineer" width="100%"></p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ANaSHaker.ANaSHaker&left_text=Profile%20views&left_color=%23374151&right_color=%233B82F6" alt="Profile views">
