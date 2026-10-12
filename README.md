@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header-v2.png" alt="Mahmoud Shaker — Senior Flutter Engineer" width="100%"></p>
+<p align="center"><img src="assets/header-v3.png" alt="Mahmoud Shaker — Senior Flutter Engineer" width="100%"></p>
 
 <p align="center">
   <a href="https://wa.me/201140279111"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ANaSHaker"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Flutter+%26+Android+Engineer+%C2%B7+7%2B+years;40%2B+apps+delivered+to+Google+Play+%26+App+Store;Delivery+platforms+%C2%B7+E-commerce+%C2%B7+LegalTech+%C2%B7+EdTech;From+idea+%E2%86%92+store+%E2%86%92+scale" alt="Typing intro"></a>
+  <a href="https://github.com/ANaSHaker"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Senior+Flutter+%26+Android+Engineer+%C2%B7+6%2B+years;40%2B+apps+delivered+to+Google+Play+%26+App+Store;Delivery+platforms+%C2%B7+E-commerce+%C2%B7+LegalTech+%C2%B7+EdTech;From+idea+%E2%86%92+store+%E2%86%92+scale" alt="Typing intro"></a>
 </p>
 
 ## 👋 About me
 
-I'm **Mahmoud Shaker**, an application developer specialising in **Flutter** and **native Android (Java & Kotlin)** with **7+ years of professional experience**. I've worked part-time and full-time inside product companies and remotely with clients as a freelancer, delivering large, multi-app platforms end-to-end — and leading small teams to ship them on time and to a high bar.
+I'm **Mahmoud Shaker**, an application developer specialising in **Flutter** and **native Android (Java & Kotlin)** with **6+ years of professional experience**. I've worked part-time and full-time inside product companies and remotely with clients as a freelancer, delivering large, multi-app platforms end-to-end — and leading small teams to ship them on time and to a high bar. Currently **Tech Lead at 1Way World** (Saudi Arabia).
 
 Today I build complete products for businesses across **Egypt, Saudi Arabia, Iraq and Palestine**: the customer app, the driver app, the merchant/restaurant app, the web app and the admin side. **40+ apps delivered** to Google Play and the App Store so far. I care about clean architecture, smooth Arabic-first UX, and code that keeps working after launch.
 
@@ -45,7 +45,7 @@ Firebase · Supabase · REST APIs · Postman · push notifications · payments �
 <br>
 <div dir="rtl">
 
-أنا **محمود شاكر**، مطوّر تطبيقات متخصص في **Flutter** و**Android (Java & Kotlin)** بخبرة أكثر من **7 سنوات**. اشتغلت دوام جزئي وكامل في شركات، وعن بُعد مع عملاء كفريلانسر، وسلّمت مشاريع كبيرة متعددة التطبيقات وقُدت فرق صغيرة لتسليمها بكفاءة.
+أنا **محمود شاكر**، مطوّر تطبيقات متخصص في **Flutter** و**Android (Java & Kotlin)** بخبرة أكثر من **6 سنوات**. اشتغلت دوام جزئي وكامل في شركات، وعن بُعد مع عملاء كفريلانسر، وسلّمت مشاريع كبيرة متعددة التطبيقات وقُدت فرق صغيرة لتسليمها بكفاءة. وحالياً **Tech Lead في 1Way World** (السعودية).
 
 حالياً أبني منتجات كاملة لعملاء في **مصر والسعودية والعراق وفلسطين**: تطبيق العميل والمندوب والمطعم/التاجر، وتطبيق الويب ولوحة التحكم — وسلّمت أكتر من **40 تطبيق** على Google Play وApp Store.
 
@@ -83,7 +83,7 @@ Firebase · Supabase · REST APIs · Postman · push notifications · payments �
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/ANaSHaker/legalpal-web-case-study"><img src="assets/cards/legalpal-web-case-study.jpg" alt="LegalPal · Web" width="100%"></a><br><b><a href="https://github.com/ANaSHaker/legalpal-web-case-study">LegalPal · Web</a></b> · <sub>🇵🇸 Palestine</sub><br><sub>Desktop-first Flutter web platform</sub><br></td>
-<td width="50%" valign="top"><a href="https://github.com/ANaSHaker/mohami-plus-app-case-study"><img src="assets/cards/mohami-plus-app-case-study.jpg" alt="Mohami Plus · App" width="100%"></a><br><b><a href="https://github.com/ANaSHaker/mohami-plus-app-case-study">Mohami Plus · App</a></b> · <sub>🇮🇶 Iraq</sub><br><sub>Legal services app for Iraq — 18 legal services</sub><br></td>
+<td width="50%" valign="top"><a href="https://github.com/ANaSHaker/mohami-plus-app-case-study"><img src="assets/cards/mohami-plus-app-case-study.jpg" alt="Mohami Plus · App" width="100%"></a><br><b><a href="https://github.com/ANaSHaker/mohami-plus-app-case-study">Mohami Plus · App</a></b> · <sub>🇮🇶 Iraq</sub><br><sub>Legal services app for Iraq — 18 legal services</sub><br><a href="https://play.google.com/store/apps/details?id=com.mohami.plus"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/ANaSHaker/mohami-plus-web-case-study"><img src="assets/cards/mohami-plus-web-case-study.jpg" alt="Mohami Plus · Web" width="100%"></a><br><b><a href="https://github.com/ANaSHaker/mohami-plus-web-case-study">Mohami Plus · Web</a></b> · <sub>🇮🇶 Iraq</sub><br><sub>Landing site + Flutter web platform</sub><br></td>
