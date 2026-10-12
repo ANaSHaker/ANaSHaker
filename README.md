@@ -1,10 +1,6 @@
 <p align="center"><img src="assets/header-v2.png" alt="Mahmoud Shaker — Senior Flutter Engineer" width="100%"></p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ANaSHaker.ANaSHaker&left_text=Profile%20views&left_color=%23374151&right_color=%233B82F6" alt="Profile views">
-</p>
-
-<p align="center">
   <a href="https://wa.me/201140279111"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.linkedin.com/in/anashaker/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://anashaker.github.io/shaker_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
